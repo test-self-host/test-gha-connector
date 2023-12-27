@@ -35,8 +35,6 @@ jobs:
     #   with:
     #     url: "https://www.rubicon.eu/downloads/26bb711a-5771-49fb-b41c-cdb2e48243ee/SFX_512MB.exe"
 
-    - name: run helper action
-      uses: volbobvol/test-gha-connector/actions@main
         
     - name: Upload the artifcat file
       uses: actions/upload-artifact@v4
