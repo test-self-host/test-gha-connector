@@ -21,7 +21,7 @@ jobs:
       # packages: write
       # pages: write
       # repository-projects: write
-      # statuses: write
+      # statuses: write 1
 
     runs-on: windows-latest
 
